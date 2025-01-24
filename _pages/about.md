@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Name：chuangeng-lin  
-mail：2312207435@qq.com
+
+I am a student from Xiamen University of Technology, and my research direction is multi-objective optimization.
+My mail：2312207435@qq.com
 
 
